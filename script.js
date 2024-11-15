@@ -40,7 +40,7 @@ function viewProfile() {
 
 // Ro'yhatdan o'tish sahifasiga yo'naltirish
 function register() {
-    window.location.href = "https://sizningvebsahifangiz.com/register"; // O'zingizning ro'yhatdan o'tish sahifasiga yo'naltiring
+    window.location.href = "https://t.me/@me_kazoki"; // O'zingizning ro'yhatdan o'tish sahifasiga yo'naltiring
 }
 
 // Kredit olish sahifasiga o'tish
