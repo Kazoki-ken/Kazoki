@@ -142,12 +142,12 @@ function viewTopRatings() {
 
 // To'lov sahifasiga yo'naltirish
 function payRedirect() {
-    window.location.href = "https://sizningvebsahifangiz.com/pay"; // O'zingizning to'lov sahifasiga yo'naltiring
+    window.location.href = "https:// YouTube.com"; // O'zingizning to'lov sahifasiga yo'naltiring
 }
 
 // Donat sahifasiga yo'naltirish
 function donate() {
-    window.location.href = "https://sizningvebsahifangiz.com/donate"; // O'zingizning donat sahifasiga yo'naltiring
+    window.location.href = "https:// YouTube.comdonate"; // O'zingizning donat sahifasiga yo'naltiring
 }
 
 
