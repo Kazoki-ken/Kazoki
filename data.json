@@ -9,7 +9,7 @@
                 },
                 {
                     "amount": 2000,
-                    "payments": [false, false, false, false, true, true, false, true]
+                    "payments": [true, true, false, false, true, true, false, true]
                 }
             ]
         },
