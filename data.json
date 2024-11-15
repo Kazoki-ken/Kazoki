@@ -1,0 +1,26 @@
+{
+    "users": [{
+            "id": 777,
+            "username": "admin",
+            "password": "1234",
+            "credits": [{
+                    "amount": 1000,
+                    "payments": [true, false, false, true, false, false, true, false]
+                },
+                {
+                    "amount": 2000,
+                    "payments": [false, false, false, false, true, true, false, true]
+                }
+            ]
+        },
+        {
+            "id": 234,
+            "username": "user1",
+            "password": "abcd",
+            "credits": [{
+                "amount": 500,
+                "payments": [false, false, true, true, false, true, false, true]
+            }]
+        }
+    ]
+}
